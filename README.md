@@ -1,1 +1,1 @@
-Bu file-da tetbiqin qurasdirilma melumatlari yer alir.
+Bu file-da tetbiqin qurasdirilma melumatlari yer alir
